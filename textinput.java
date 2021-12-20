@@ -24,3 +24,4 @@ class textinput extends JFrame{
     contentPane.add(p, BorderLayout.CENTER);
   }
 }
+a
